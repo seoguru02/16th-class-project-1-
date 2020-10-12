@@ -1,0 +1,573 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Open Sans,Arial,sans-serif;
+}
+
+/*------start---- Games----*/
+
+.games{
+	background-image: url(https://www.elegantthemes.com);
+}
+
+.overla{
+	background: linear-gradient(#474ab6 0%,#9271f6 100%);
+	padding: 100px 0px;
+	overflow: hidden;
+	padding: 100px 0px;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+}
+
+.apps{
+	width: 50%;
+	float: left;
+}
+
+.apps img{
+	width: 400px;
+	display: block;
+	margin-left: 50px
+}
+
+.apps h2{
+    font-size: 42px;
+    line-height: 1.3em;
+	color: #fff;
+}
+
+.apps p{
+	margin-top: 25px;
+	line-height: 1.9em;
+	margin-bottom: 35px;
+	color: #d4ccff;
+}
+
+.apps a{
+	background: #09e1c0;
+	padding: 15px 25px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 100px;
+	transition: 1s all;
+}
+
+.apps a:hover{
+	padding: 15px 30px 15px 30px;
+	letter-spacing: 3px;
+}
+
+/*------end---- Games----*/
+
+
+/*----start---- courses---*/
+
+.courses{
+	overflow: hidden;
+	padding: 50px 0px;
+}
+          /*----courses-1----*/
+	   
+.courses-1{
+	width: 40%;
+	float: left;
+	margin-top: 30px;
+}
+
+.courses-1 h2{
+	font-size: 36px;
+    color: #7272ff;
+    line-height: 1.5em;
+}
+
+.courses-1 hr{
+	margin-top: 15px;
+	width: 45px;
+	height: 2px;
+}
+
+.courses-1 h4{
+    margin-block-start: 2em;
+    margin-block-end: 2.33em;
+	line-height: 1.5em;
+	font-size: 20px;
+}
+
+.courses-1 p{
+	font-size: 19px;
+	line-height: 2em;
+	color: #8585bd;
+	margin-bottom: 35px;
+}
+
+.courses-1 a{
+	background: #7272ff;
+	padding: 20px 32px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 100px;
+	transition: all 300ms ease 0ms;
+}
+
+.courses-1 a:hover{
+	padding: 20px 45px 20px 32px;
+	letter-spacing: 3px;
+}
+
+            /*----courses-1----*/
+
+.courses-2{
+	width: 58%;
+	float: left;
+	box-shadow: 0px 0px 3px  3px #33243536;
+	margin-top: 30px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.wab{
+	width: 49%;
+	float: left;
+	margin-right: ;
+	border: 1px solid #eee;
+	border-left: none;
+    border-top: none;
+}
+
+.wab h3{
+	margin-top: 10px;
+}
+
+.wab img{
+	float: left;
+	width: 80px;
+	margin-right: 10px;
+	margin-bottom: 75px;
+}
+
+.wab p{
+	font-size: 15px;
+	line-height: 1.4em;
+	margin-top: 15px;
+	color: #8585bd;
+}
+
+       /*------end----Courses----*/
+	   
+	   /*------start----expert----*/
+	   
+.expert{
+	background-image: url(https://www.elegantthemes.com);
+	
+}
+
+.overla{
+	background: linear-gradient(#474ab6 0%,#9271f6 100%);
+	padding: 100px 0px;
+	overflow: hidden;
+	padding: 100px 0px;
+}
+
+.call-2-1{
+	width: 50%;
+	float: left;
+	overflow: hidden;
+}
+
+.call-2-1 img{
+	width: 450px;
+    height: auto;
+}
+
+.call-2-1 h2{
+	font-weight: 700;
+    font-size: 36px;
+    line-height: 1.5em;
+	color: #fff;
+	margin-top: 40px;
+}
+
+.call-2-1 hr{
+	margin-bottom: 30px;
+    max-width: 45px;
+	margin-top: 35px;
+	height: 2px;
+}
+
+.call-2-1 p{
+	color: #d4ccff;
+	font-size: 16px;
+	line-height: 2em;
+	margin-bottom: 40px;
+}
+	 
+.call-2-1 a{
+	background: #09e1c0;
+	padding: 20px 32px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 100px;
+	transition: all 300ms ease 0ms;
+}
+
+.call-2-1 a:hover{
+	padding: 20px 45px 20px 32px;
+	letter-spacing: 3px;
+}
+	   
+	   
+	   /*------end----expert----*/
+	   
+		/*-----start---learn---*/
+	
+.learn{
+	padding: 80px 0px;
+	overflow: hidden;
+}
+
+.call-3-1{
+	width: 50%;
+	float: left;
+}
+
+.call-1 img{
+	width: 75px;
+	margin-bottom: 40px;
+}
+
+.call-3-1 h2{
+	font-size: 36px;
+    color: #7272ff;
+    line-height: 1.5em;
+	margin-bottom: 30px;
+}
+
+hr{
+	width: 45px;
+	height: 2px;
+}
+   
+.call-3-1 h4{
+	margin-block-end: 1.33em;
+    line-height: 1.9em;
+    font-size: 16px;
+}
+
+.p{
+	font-size: 16px;
+	line-height: 1.9em;
+	color: #8585bd;
+}
+
+.jk img{
+	width: 500px;
+	margin-left: 40px;
+    margin-top: 40px;
+}
+
+	   /*-----end---learn---*/
+	   
+	   	  /*-----start---portfolio---*/
+
+.portfolio{
+	padding: 80px 0px;
+	overflow: hidden;
+}
+
+.call-4-1{
+	width: 50%;
+	float: left;
+}
+
+.jk-1 img{
+	width: 420px;
+}
+
+.call-4-1 h2{
+	font-size: 36px;
+    color: #7272ff;
+    line-height: 1.5em;
+	margin-bottom: 30px;
+}
+
+.call-4-1 h4{
+	margin-block-end: 1.33em;
+    line-height: 1.9em;
+    font-size: 16px;
+}
+
+	  /*-----end---portfolio---*/
+	  
+	   /*-----start---achieve---*/
+
+.achieve{
+	padding: 80px 0px;
+	overflow: hidden;
+}
+
+.call-5-1{
+	width: 50%;
+	float: left;
+}
+
+.call-5-1 h2{
+	font-size: 36px;
+    color: #7272ff;
+    line-height: 1.5em;
+	margin-bottom: 30px;
+}
+
+.call-5-1 h4{
+	margin-block-end: 1.33em;
+    line-height: 1.9em;
+    font-size: 16px;
+}
+	   
+	    /*-----end---achieve---*/
+
+
+		/*-----ster--team---*/
+
+.team{
+	background-image: url(https://www.elegantthemes.com);
+}
+		
+.call-6-1{
+	width: 50%;
+	float: left;
+}
+	
+.call-6-1 h1{
+	font-size: 36px;
+    line-height: 1.5em;
+	font-weight: 700;
+	color: #fff;
+}
+
+.call-6-1 p{
+	margin-top: 35px;
+	color: #d4ccff;
+	font-size: 18px;
+    line-height: 1.9em;
+	margin-bottom: 30px;
+}
+
+.call-2 img{
+	width: 45px;
+    height: auto;
+    float: left;
+}
+
+.call-6-1 span{
+	font-size: 15px;
+    margin-top: 15px;
+    float: left;
+    color: #d4ccff;
+    margin-left: 15px;
+	line-height: 1.9em;	
+}
+
+.call-6-1 strong{
+	font-weight: 700;
+}
+
+.call-3 img{
+	width: 400px;
+	margin-left: 143px;
+}
+
+		/*-----end---team---*/
+		
+		/*-----start---FAQ---*/
+.faq{
+	overflow: hidden;
+	padding: 50px 0px;
+}
+
+
+.call-7-1{
+	width: 40%;
+	float: left;
+}
+
+.call-7-1 h1{
+	font-size: 36px;
+    color: #7272ff;
+    line-height: 1.5em;
+	padding-bottom: 10px;
+}
+
+.call-7-1 h4{
+	margin-block-start: 2em;
+    margin-block-end: 1.33em;
+    line-height: 1.9em;
+    font-size: 20px;
+}
+
+.call-7-1 p{
+	margin-bottom: 50px;
+	margin-top: 35px;
+	color: #d4ccff;
+	font-size: 18px;
+    line-height: 1.9em;
+}
+
+
+.call-7-1 a{
+	background: #09e1c0;
+	padding: 20px 32px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 100px;
+	transition: all 300ms ease 0ms;
+}
+
+.call-7-1 a:hover{
+	padding: 20px 45px 20px 32px;
+	letter-spacing: 3px;
+}
+
+.call-8-1{
+	width: 60%;
+	float: left;
+}
+
+.call-7{
+	width: 50%;
+	float: left;
+}
+
+.why{
+	color: #fff;
+	font-size: 32px;
+	width: 20px;
+	background: #09e1c0;
+	border-radius: 100%;
+	float: left;
+	margin-bottom: 160px;
+}
+
+.call-7  h3{
+	line-height: 2.5em;
+	font-size: 18px;
+	margin-bottom: 20;
+	margin-left: 30px;
+}
+.call-7  p{
+	color: #8585bd;
+    line-height: 1.9em;
+	margin-bottom: 20px;
+}
+
+			/*-----end---FAQ---*/
+			
+			
+			/*----start
+
+.started{
+	padding: 0px 0px 50px 0px;
+	overflow: hidden;
+	background-color: #f7f8fc;
+}
+
+.call-9-1{
+	width: 40%;
+	float: left;
+		width: 200px;
+	height: 50px;
+}
+
+	
+	
+			
+			--end---started---*/
+
+
+   /*---start--- Games----*/
+	
+@media (max-width: 960px ){
+	.apps{
+	width: 100%;
+	float: none;
+}
+
+.apps img{
+	width: 300px;
+	margin-top: 50px;
+}
+
+.apps h2{
+    font-size: 25px;
+}
+}
+	  /*---end--- Games----*/
+	  
+	  
+	  /*---start---courses-----*/
+	  
+@media (max-width: 960px ){
+	.courses-1{
+	width: 100%;
+	float: none;
+}	
+
+.wab{
+	width: 98%;
+	float: left;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	border-bottom: 1px solid #eee;
+}
+
+.courses-2{
+	box-shadow: 3p 6px 5px 0px;
+}	
+}
+    /*---end---courses----*/
+
+	 /*----start----expert--*/
+
+@media (max-width: 960px){
+	.call-2-1{
+		width: 100%;
+		float: none;
+}
+
+.call-2-1 img{
+	width: 250px;
+}	
+	
+}
+	/*----end----expert---*/
+	
+	<!----start---- Learn ---->
+
+@media (max-width: 960px){
+	.call-3-1{
+	width: 100%;
+	float: none;
+}
+}
+
+	<!----start---- Learn ---->
+	
+	/*-----start---team---*/
+
+@media (max-width: 960px){
+	.call-6-1{
+	width: 100%;
+	float: none;
+}
+.call-3 img{
+	width: 200px;
+	
+}
+
+}
+
+	
+	/*-----end---team---*/
+	
